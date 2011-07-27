@@ -1,0 +1,1 @@
+console.log('cgr for suffix trees :-)')
